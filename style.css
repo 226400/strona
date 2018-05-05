@@ -1,0 +1,139 @@
+a.wynikii33
+{
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+}
+a.wynikii33:hover
+{
+  text-decoration: none;
+  outline: none;
+}
+a.viweditbutton
+{
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+}
+a.viweditbutton:hover
+{
+  text-decoration: none;
+  outline: none;
+}
+
+#containers
+{
+  background-image: url("img/doodles.png");
+  width: 500px;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  -webkit-box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+  -moz-box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+  box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+}
+#potwierdz
+{
+	width: 300px;
+	background-color: #C5C9F2;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#potwierdz:hover
+
+{
+	-webkit-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+-moz-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+border: 2px solid #a5cda5;
+background-color: #e9f3e9;
+color: #428c42;
+}
+.wyniki33
+{
+  width: 300px;
+  padding: 10px 10px 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+background-color: #A8CBED;
+border: 5px solid #ffffff;
+border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+margin-bottom: 10px;
+}
+.profile
+{
+  width: 300px;
+  padding: 10px 10px 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+background-color: #A8CBED;
+border: 5px solid #ffffff;
+border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+margin-bottom: 10px;
+}
+.pro
+{
+  font-size: 23px;
+  float: left;
+  width: 350px;
+  padding: 10px 10px 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+background-color: #e0d1b3;
+border: 5px solid #ffffff;
+border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+margin-bottom: 10px;
+margin-left: 20px;
+}
+.wynikii
+{
+  width: 600px;
+  padding: 10px 30px 30px 30px;
+  margin-left: auto;
+  margin-right: auto;
+background-color: #e0d1b3;
+border: 5px solid #ffffff;
+border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+margin-bottom: 15px;
+}
+
+
+
+.viweditbutton
+{
+  width: 300px;
+  background-color: #efefef;
+  color: #666;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  font-size: 20px;
+margin-left: 20px;
+
+  padding: 10px 10px 10px 10px;
+  box-sizing: border-box;
+  outline: none;
+
+}
+
+.viweditbutton:hover
+{
+  text-decoration: none;
+}
